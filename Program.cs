@@ -8,7 +8,7 @@ namespace GraphInfo {
             StreamReader reader = new StreamReader("/Users/juliandeangelis/Downloads/ass4-graphs.txt");
 
             for (int q = 0; q < 6; q++) {
-                 
+                  
                 int edgeCount = 0;
                 int pendantCount = 0;
                 int maxDegree = 0;
